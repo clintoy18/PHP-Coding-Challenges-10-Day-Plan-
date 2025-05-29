@@ -6,6 +6,7 @@ This repository is designed to help you enhance your problem-solving skills in P
 
 📆 10-Day Coding Challenge Plan
 Day 1: Reverse an Integer - DONE 
+
 Problem: Write a function to reverse the digits of an integer without converting it to a string.
 
 Skills: Basic loops, integer manipulation
